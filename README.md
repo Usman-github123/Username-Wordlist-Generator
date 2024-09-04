@@ -17,7 +17,7 @@ Features
 
 How to Use
 
-    1. Clone this repository to your local machine.
+    1. git clone https://github.com/Usman-github123/Username-Wordlist-Generator.git
     2. Ensure that crunch is installed on your system (available on Kali Linux and other platforms).
     3. cd Username-Wordlist-Generator
     4. chmod +x username_wordlist_generator.py
