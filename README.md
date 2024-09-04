@@ -17,13 +17,12 @@ Features
 
 How to Use
 
-    Clone this repository to your local machine.
-    Ensure that crunch is installed on your system (available on Kali Linux and other platforms).
-    Run the script using Python 3:
-
-    python3 username_wordlist_generator.py
-
-    Follow the prompts to input usernames and select the desired options.
+    1. Clone this repository to your local machine.
+    2. Ensure that crunch is installed on your system (available on Kali Linux and other platforms).
+    3. cd Username-Wordlist-Generator
+    4. chmod +x username_wordlist_generator.py
+    5. python3 username_wordlist_generator.py
+    6. Follow the prompts to input usernames and select the desired options.
 
 Example
 
